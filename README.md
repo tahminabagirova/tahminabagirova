@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahminabagirova
+- 👋 Hi, I’m Tahmina
 - 🌱 I’m currently learning ...
 
 <!---
